@@ -9,8 +9,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.4</tag>
@@ -20,7 +20,7 @@
   <entry>
     <title><![CDATA[黑苹果长期维护机型整理清单]]></title>
     <url>%2FHackintosh-long-term-maintenance-model-checklist.html</url>
-    <content type="text"><![CDATA[.fancybox{display:inline-block} 原引：黑苹果长期维护机型整理 by @我意 远景链接 github仓库整理这份清单的目的：在于给想体验黑苹果的人一个方向，也想减少大家重复造轮子，节约大家的时间。所有文件均归属于原作者，本清单只列出链接。如果您不希望你的链接被这份清单收录，请发送邮件到 y010204025@126.com,我将移除链接清单收录了4个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单，请发送邮件到 y010204025@126.com致谢：感谢一直为黑苹果进行开发的各位开发者和愿意共享出 EFI 文件的开发者，谢谢！更新日期：2018年10月06日2018年12月25日2019年01月15日2019年3月1日 by @黑果小兵按机型重新排版将该文档上传到仓库，方便其它人提交合并，共同维护2019年3月21日发布到博客添加底噪的黑苹果合集添加华为 Matebook X Pro2019年4月2日添加部分新机型将多于2个机型的品牌独立出来，方便检索 笔记本部分机型机型名称发布地址教程地址备注Acer 宏碁Acer Aspire 3 A315-51链接Acer Aspire A515-51G链接Acer Aspire A515-51G链接链接Acer Aspire E1-471G链接链接ACER Aspire E1-471gAcer Aspire E5 475G链接Acer Aspire E5-476G链接i3-6006UAcer Aspire E5-571-5552链接Acer Aspire E1-571G链接Acer Aspire E1-572G链接Acer ES1-572-37pz链接ACER F5-573G链接Acer F5-573g-75A3链接Acer V3-471G链接Acer-V3-572G-51MR链接链接Asus 华硕Asus A43SJ链接链接Asus A43SJAsus A411UF链接Asus A442UF链接Asus A455LA链接链接Asus S455LAAsus F455LD链接Asus A455LF-WX039D Series链接Asus FX504GE链接Asus FX504GE-ES72链接Asus F556U (X556UQK)链接链接Asus F556U (X556UQK)Asus FX50J链接Asus FX533VD链接Asus GL551JW链接Asus G60VW链接Asus K501LB链接Asus K55VD链接链接Asus K55VDAsus Laptop N56VZ链接Asus P8P67 PRO链接链接Asus ROG GL552JX链接链接Asus ROG GL552JXAsus ROG GL552VX链接Asus ROG GL553VD链接Asus ROG Zephyrus S GX531GS链接华硕玩家国度冰刃 3Asus TUF Gaming FX504链接 链接链接华硕 FX80GE FX504GEAsus VivoBook 15 X510UQ / S5100UQ链接Asus X441U链接Asus X441UB链接Asus VivoBook Max X441UVK链接Asus VivoBook S15 S510UA链接链接Vivobook S510UAAsus Vivobook S510UAAsus VivoBook X510UQR链接链接Asus X450JB链接Asus X550JX链接Asus X555LB链接Asus ZenBook 系列链接链接支持型号: UX310 - UX330 - UX330UX410 - UX430 - UX430Asus ZenBook Flip UX360UAK链接链接Asus ZenBook UX32VD链接链接Asus UX32VDAsus ZenBook UX330UAK链接链接Asus UX330UAK (Kabylake）DELL 戴尔Alienware 17 R4 i7-7700HQ链接链接外星人 17 R4Alienware Aurora-R7链接Alienware-Aurora-R6/R7/R8链接DELL Latitude E7440链接Dell G3 3579链接 链接Dell G7 7588链接Dell Inspiron 14 5447链接链接Dell-Ins-14-5447Dell Inspiron 14 7447链接链接Dell-Inspiron-14-7447Dell Inspiron 15 7000 (i7-8550U)链接Dell Inspiron 3442链接链接Dell 3443Dell Inspiron 3443链接Dell Inspiron 3543链接 链接Dell Inspiron 3568链接链接Dell Inspiron 3568Dell Inspiron 5447链接Dell Inspiron 5488链接Dell Inspiron 5559链接Dell 5559Dell Inspiron 5567链接i3-7100u, Intel HD620Dell inspiron 5570链接Dell Inspiron 5577链接Dell Inspiron 7000 系列链接链接Dell Inspiron 7000 I/II (7x60/7x72)Dell Inspiron 14 7447 Pandora链接Dell Inspiron 7460 和 7560链接链接戴尔 7460 和 7560Dell Inspiron 7559链接 链接链接Dell 7559Dell Inspiron 7567链接Dell Latitude E5440链接Dell E5440Dell Latitude E7440链接Dell OptiPlex 3050链接链接Dell Precision 5510链接Dell-Precision-5510Dell Precision M3800Dell XPS 15-9530链接链接Dell M3800 和 XPS 9530XPS13 9343链接链接Dell XPS 9350链接链接Dell XPS 9350Dell XPS 9360链接链接Dell XPS 9360Dell XPS 9360链接 链接链接 链接链接 链接链接Dell XPS 9360Dell XPS 9530链接链接XPS 9530Dell XPS 9550链接 链接链接 链接Dell XPS 9550Dell XPS 9560链接链接Dell XPS 9560Dell XPS 9570链接 链接链接感谢：LuletterSoulGigabyte 技嘉Gigabyte Aero 15X链接链接Gigabyte Aero 15W链接Hasse 神舟Hasse Shinelon A40L-i7链接链接这是神舟神舟K650D链接神舟 K 650DHasee Z6-SL5 D1链接神舟战神 Z7系列链接链接神舟战神 Z7-KP7GZHasee Z7M KP5GC链接神舟炫龙笔记本DC2链接链接神舟精盾系列T96E链接HP 惠普HP ProBook/EliteBookZBook 系列链接链接除 8x60W,8x70W 系列之外的机型，二代 CPU 及之前的机型仅支持到 10.13.xHP Envy Haswell J/K/Q/N系列笔记本链接链接仅 4 代 envy 机型HP 15 D062TU链接 链接HP 17 BY0062ST链接HP Envy13 ad1xxx链接链接惠普 envy13HP ENVY 15 as110tu链接HP 840-G1链接链接Hp spectre X360链接EliteDesk 800-G3-Mini链接链接HP ZHAN99 WorkStation G1链接惠普 战99Huawei 华为华为 Matebook X Pro链接链接华为 Matebook X Pro荣耀 Magicbook链接链接Lenovo 联想Lenovo Flex 15链接链接Lenovo Flex 15Lenovo Ideapad 310-14IKB链接链接Lenovo Ideapad 320-15ISK链接Lenovo Ideapad 700-15ISK链接链接Lenovo-XiaoXin700-15ISKLenovo G50-80链接Lenovo G510链接链接感谢：39军小兵张ThinkPad E450C链接ThinkPad E480链接链接ThinkPad E540链接ThinkPad E550链接链接E550 四代 CPUThinkPad E560链接链接ThinkPad L440链接Lenovo miix 520链接ThinkPad P51链接链接Thinkpad P51ThinkPad P52链接锐 7000链接联想 80WB 笔记本电脑ThinkPad T420 系列链接链接包含 T420、T420s、T520、X220X220，可通过修改支持到 10.14.xThinkPad T440p链接 链接链接ThinkPad T460 系列链接链接可支持 T460、T560、T470和 T470p4 款机型ThinkPad T460p链接ThinkPad T470p链接链接ThinkPad T470pThinkPad T480链接ThinkPad T480s链接链接ThinkPad T480s链接 链接链接链接 链接ThinkPad T480sThinkPad T580链接Lenovo U330/U430/U530 系列链接链接Lenovo V1000链接联想小新笔记本V1000 FHDLenovo V3000链接链接Lenovo V3000Lenovo V330-15IKB链接链接Lenovo XiaoXin Air 13 IWL链接链接联想小新 Air 13 2018 IWLLenovo XiaoXin Chao 5000链接联想潮 5000Lenovo XiaoXin Chao 7000链接链接Lenovo XiaoXin Chao 7000链接链接联想小新潮 7000，已支持 14 寸、12.5 寸、13.3 寸，15 寸以及13.3 寸的完美支持后续会添加，请期待……ThinkPad X1 3rd链接链接ThinkPad X1 3 代ThinkPad X1 Carbon 5th gen链接(5th gen, released 2017)ThinkPad X1 Carbon 6th Gen链接链接Thinkpad X1 Carbon 6th GenThinkPad X1 Yoga / Carbon链接链接Thinkpad X1 Yoga / CarbonThinkPad X1 Extreme链接 链接链接如果没猜错，这货就是 x1 隐士，好几个人问过，这下省事了ThinkPad X1C 6th链接链接ThinkPad X1c 6thThinkPad X220链接链接支持 10.14+ThinkPad X220链接ThinkPad-X220ThinkPad X230链接链接ThinkPad X230ThinkPad X230链接链接ThinkPad X230ThinkPad X250链接ThinkPad X260 系列链接链接ThinkPad X260Lenovo Y50(70) 系列链接链接Y50(70)1080P 和 4K 版本Lenovo IdeaPad Y410P链接感谢：39军小兵张Lenovo IdeaPad Y430P链接感谢：39军小兵张Lenovo IdeaPad Y510P链接感谢：39军小兵张Lenovo Y520/Y720链接链接联想 Y520 及 Y720Lenovo Legion Y7000链接链接Lenovo Legion Y7000-1060链接链接Lenovo_Legion_Y7000-1060Lenovo Legion Y7000Y530 系列链接 链接链接全新完美 EFI，舍弃了小键盘拯救者Y7000和Y50-70链接Lenovo Yoga 3 Pro 1370链接链接联想 yaga3/proThinkPad Yoga 12链接 链接链接 链接Lenovo Yoga3 14链接Lenovo Yoga3 11链接Lenovo Yoga 710链接Lenovo Z50(40)/70 系列链接链接Lenovo Z50-70/Z40-70Lenovo G50-70/G40-70LGLG Gram 14z980链接LG Gram 15Z980-G.AA52C链接MSI 微星MSI GL62M-7REX链接MSI GL72M-7RDX链接链接MSI GP62 6QG-1071XCN链接链接微星 GP62MSI GS65 Stealth Thin 8RF链接MSI GE70 2PC链接XiaoMi 小米XiaoMi Air链接链接XiaoMiAir_i7 7500uXiaoMi Air链接链接小米 AirXiaoMi Air链接链接小米 AirXiaoMi Air链接XiaoMi Air链接链接小米 Notebook AirXiaoMi Air链接链接XiaoMi NoteBook AirXiaoMi Air 1gen链接这哥们应该是忠实的米粉，有兴趣的多多关注XiaoMi Air Skylake链接链接XiaoMi Gaming链接额，小米游戏本XiaoMi Pro 系列链接链接小米 Pro 系列XiaoMi 游戏本 8 代链接小米游戏本，猜的Intel 英特尔Intel DH67GD, DH67BL,DH67CF, DH67CL 系列主板链接链接Intel DH67GD, DH67BL,DH67CF, DH67CL 系列主板Intel NUC 5、6、7、8 系列链接链接mini 主机NUC8i7BEH链接Surface Pro 4链接 链接链接surfacePro 4技嘉 GB-BXi5H-4200 系列主板链接链接技嘉 GB-BXi5H-4200 系列主板Other 其它Clevo P950HR链接蓝天 P950HR，猜的火影地狱火X6链接MECHREVO-X1链接机械革命 X1Shinalon_Yao_7000链接链接更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi笔记本相关资源hotpatchP-little链接见 ThinkPad 交流群宪武做的一套 ThinkPad 补丁，刚开始上传，请期待无线网卡推荐无线网卡MiniPCIe 接口(推荐 BCM4352HMB、DW1510)博通：BCM94322HM8L、Asus BCM94352、AzureWave AW-CE123H、AzureWave AW-NB290H、DW1510、DW1520、DW1550、高通：DW1515、DW1705、AR5BHB92、AR5BHB112 AR9285 芯片在 10.14 将不再被支持PCIe 接口博通：BCM94331CD、BCM94322MC、BCM94360CD高通：AR5BXB72、AR5BXB92、AR5BXB112M.2 接口(推荐 BCM94352ZAE、DW1560)博通：BCM94352Z(AE)、DW1560，DW1830高通：DW1707(AR9565)台式（部分）AMD Ryzen链接链接AMD FX 6300/NVIDIA GTX 650链接主板：Asus M5A97 LE R2.0AMD Ryzen 1700/Asus B350 Plus链接MSI GTX 1080 Gaming XASRock deskmini 110链接Asrock deskmini 310链接ASRock Z370M Pro4链接 链接链接ASRock Z370-Gaming链接链接ASRock Z390 Phantom Gaming itx链接 链接链接 链接华擎 Z390 Phantom Gaming itx/acAsus Z170-P链接华硕Z170-P+6700K+RX470Asus ROG STRIX H370-I GAMING链接mini-ITX H370 motherboardAsus STRIX Z270-E链接Asus STRIX Z270-EAsus ROG Strix Z390-EIntel i9-9900k+GTX 1080TiCM238 i7-8950H UHD630 ALC269链接S200H_I7-8750H 小主机Dell OptiPlex 3050链接Dell OptiPlex 9020M链接Gigabyte X370N链接 链接Gigabyte Z370NDQ77KB链接Gigabyte Z270X-UG链接链接Gigabyte Z390 Aorus链接Lenovo M73 Tiny链接Huanan X79 E5-2670, GTX650链接链接华南 x79 V2HP Z600 Workstation链接MSI B360链接MSI Z370-A链接链接黑果小兵MSI Z370-A自用EFI更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi硬件兼容列表链接感谢: CrazyPegAsus.fancybox{display:inline-block}]]></content>
+    <content type="text"><![CDATA[.fancybox{display:inline-block} 原引：黑苹果长期维护机型整理 by @我意 远景链接 github仓库整理这份清单的目的：在于给想体验黑苹果的人一个方向，也想减少大家重复造轮子，节约大家的时间。所有文件均归属于原作者，本清单只列出链接。如果您不希望你的链接被这份清单收录，请发送邮件到 y010204025@126.com,我将移除链接清单收录了4个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单，请发送邮件到 y010204025@126.com致谢：感谢一直为黑苹果进行开发的各位开发者和愿意共享出 EFI 文件的开发者，谢谢！更新日期：2018年10月06日2018年12月25日2019年01月15日2019年3月1日 by @黑果小兵按机型重新排版将该文档上传到仓库，方便其它人提交合并，共同维护2019年3月21日发布到博客添加底噪的黑苹果合集添加华为 Matebook X Pro2019年4月2日添加部分新机型将多于2个机型的品牌独立出来，方便检索 笔记本部分机型机型名称发布地址教程地址备注Acer 宏碁Acer Aspire 3 A315-51链接Acer Aspire A515-51G链接Acer Aspire A515-51G链接链接Acer Aspire E1-471G链接链接ACER Aspire E1-471gAcer Aspire E5 475G链接Acer Aspire E5-476G链接i3-6006UAcer Aspire E5-571-5552链接Acer Aspire E1-571G链接Acer Aspire E1-572G链接Acer ES1-572-37pz链接ACER F5-573G链接Acer F5-573g-75A3链接Acer V3-471G链接Acer-V3-572G-51MR链接链接Asus 华硕Asus A43SJ链接链接Asus A43SJAsus A411UF链接Asus A442UF链接Asus A455LA链接链接Asus S455LAAsus F455LD链接Asus A455LF-WX039D Series链接Asus FX504GE链接Asus FX504GE-ES72链接Asus F556U (X556UQK)链接链接Asus F556U (X556UQK)Asus FX50J链接Asus FX533VD链接Asus GL551JW链接Asus G60VW链接Asus K501LB链接Asus K55VD链接链接Asus K55VDAsus Laptop N56VZ链接Asus P8P67 PRO链接链接Asus ROG GL552JX链接链接Asus ROG GL552JXAsus ROG GL552VX链接Asus ROG GL553VD链接Asus ROG Zephyrus S GX531GS链接华硕玩家国度冰刃 3Asus TUF Gaming FX504链接 链接链接华硕 FX80GE FX504GEAsus VivoBook 15 X510UQ / S5100UQ链接Asus X441U链接Asus X441UB链接Asus VivoBook Max X441UVK链接Asus VivoBook S15 S510UA链接链接Vivobook S510UAAsus Vivobook S510UAAsus VivoBook X510UQR链接链接Asus X450JB链接Asus X550JX链接Asus X555LB链接Asus ZenBook 系列链接链接支持型号: UX310 - UX330 - UX330UX410 - UX430 - UX430Asus ZenBook Flip UX360UAK链接链接Asus ZenBook UX32VD链接链接Asus UX32VDAsus ZenBook UX330UAK链接链接Asus UX330UAK (Kabylake）DELL 戴尔Alienware 17 R4 i7-7700HQ链接链接外星人 17 R4Alienware Aurora-R7链接Alienware-Aurora-R6/R7/R8链接DELL Latitude E7440链接Dell G3 3579链接 链接Dell G7 7588链接Dell Inspiron 14 5447链接链接Dell-Ins-14-5447Dell Inspiron 14 7447链接链接Dell-Inspiron-14-7447Dell Inspiron 15 7000 (i7-8550U)链接Dell Inspiron 3442链接链接Dell 3443Dell Inspiron 3443链接Dell Inspiron 3543链接 链接Dell Inspiron 3568链接链接Dell Inspiron 3568Dell Inspiron 5447链接Dell Inspiron 5488链接Dell Inspiron 5559链接Dell 5559Dell Inspiron 5567链接i3-7100u, Intel HD620Dell inspiron 5570链接Dell Inspiron 5577链接Dell Inspiron 7000 系列链接链接Dell Inspiron 7000 I/II (7x60/7x72)Dell Inspiron 14 7447 Pandora链接Dell Inspiron 7460 和 7560链接链接戴尔 7460 和 7560Dell Inspiron 7559链接 链接链接Dell 7559Dell Inspiron 7567链接Dell Latitude E5440链接Dell E5440Dell Latitude E7440链接Dell OptiPlex 3050链接链接Dell Precision 5510链接Dell-Precision-5510Dell Precision M3800Dell XPS 15-9530链接链接Dell M3800 和 XPS 9530XPS13 9343链接链接Dell XPS 9350链接链接Dell XPS 9350Dell XPS 9360链接链接Dell XPS 9360Dell XPS 9360链接 链接链接 链接链接 链接链接Dell XPS 9360Dell XPS 9530链接链接XPS 9530Dell XPS 9550链接 链接链接 链接Dell XPS 9550Dell XPS 9560链接链接Dell XPS 9560Dell XPS 9570链接 链接链接感谢：LuletterSoulGigabyte 技嘉Gigabyte Aero 15X链接链接Gigabyte Aero 15W链接Hasse 神舟Hasse Shinelon A40L-i7链接链接这是神舟神舟K650D链接神舟 K 650DHasee Z6-SL5 D1链接神舟战神 Z7系列链接链接神舟战神 Z7-KP7GZHasee Z7M KP5GC链接神舟炫龙笔记本DC2链接链接神舟精盾系列T96E链接HP 惠普HP ProBook/EliteBookZBook 系列链接链接除 8x60W,8x70W 系列之外的机型，二代 CPU 及之前的机型仅支持到 10.13.xHP Envy Haswell J/K/Q/N系列笔记本链接链接仅 4 代 envy 机型HP 15 D062TU链接 链接HP 17 BY0062ST链接HP Envy13 ad1xxx链接链接惠普 envy13HP ENVY 15 as110tu链接HP 840-G1链接链接Hp spectre X360链接EliteDesk 800-G3-Mini链接链接HP ZHAN99 WorkStation G1链接惠普 战99Huawei 华为华为 Matebook X Pro链接链接华为 Matebook X Pro荣耀 Magicbook链接链接Lenovo 联想Lenovo Flex 15链接链接Lenovo Flex 15Lenovo Ideapad 310-14IKB链接链接Lenovo Ideapad 320-15ISK链接Lenovo Ideapad 700-15ISK链接链接Lenovo-XiaoXin700-15ISKLenovo G50-80链接Lenovo G510链接链接感谢：39军小兵张ThinkPad E450C链接ThinkPad E480链接链接ThinkPad E540链接ThinkPad E550链接链接E550 四代 CPUThinkPad E560链接链接ThinkPad L440链接Lenovo miix 520链接ThinkPad P51链接链接Thinkpad P51ThinkPad P52链接锐 7000链接联想 80WB 笔记本电脑ThinkPad T420 系列链接链接包含 T420、T420s、T520、X220X220，可通过修改支持到 10.14.xThinkPad T440p链接 链接链接ThinkPad T460 系列链接链接可支持 T460、T560、T470和 T470p4 款机型ThinkPad T460p链接ThinkPad T470p链接链接ThinkPad T470pThinkPad T480链接ThinkPad T480s链接链接ThinkPad T480s链接 链接链接链接 链接ThinkPad T480sThinkPad T580链接Lenovo U330/U430/U530 系列链接链接Lenovo V1000链接联想小新笔记本V1000 FHDLenovo V3000链接链接Lenovo V3000Lenovo V330-15IKB链接链接Lenovo XiaoXin Air 13 IWL链接链接联想小新 Air 13 2018 IWLLenovo XiaoXin Chao 5000链接联想潮 5000Lenovo XiaoXin Chao 7000链接链接Lenovo XiaoXin Chao 7000链接链接联想小新潮 7000，已支持 14 寸、12.5 寸、13.3 寸，15 寸以及13.3 寸的完美支持后续会添加，请期待……ThinkPad X1 3rd链接链接ThinkPad X1 3 代ThinkPad X1 Carbon 5th gen链接(5th gen, released 2017)ThinkPad X1 Carbon 6th Gen链接链接Thinkpad X1 Carbon 6th GenThinkPad X1 Yoga / Carbon链接链接Thinkpad X1 Yoga / CarbonThinkPad X1 Extreme链接 链接链接如果没猜错，这货就是 x1 隐士，好几个人问过，这下省事了ThinkPad X1C 6th链接链接ThinkPad X1c 6thThinkPad X220链接链接支持 10.14+ThinkPad X220链接ThinkPad-X220ThinkPad X230链接链接ThinkPad X230ThinkPad X230链接链接ThinkPad X230ThinkPad X250链接ThinkPad X260 系列链接链接ThinkPad X260Lenovo Y50(70) 系列链接链接Y50(70)1080P 和 4K 版本Lenovo IdeaPad Y410P链接感谢：39军小兵张Lenovo IdeaPad Y430P链接感谢：39军小兵张Lenovo IdeaPad Y510P链接感谢：39军小兵张Lenovo Y520/Y720链接链接联想 Y520 及 Y720Lenovo Legion Y7000链接链接Lenovo Legion Y7000-1060链接链接Lenovo_Legion_Y7000-1060Lenovo Legion Y7000Y530 系列链接 链接链接全新完美 EFI，舍弃了小键盘拯救者Y7000和Y50-70链接Lenovo Yoga 3 Pro 1370链接链接联想 yaga3/proThinkPad Yoga 12链接 链接链接 链接Lenovo Yoga3 14链接Lenovo Yoga3 11链接Lenovo Yoga 710链接Lenovo Z50(40)/70 系列链接链接Lenovo Z50-70/Z40-70Lenovo G50-70/G40-70LGLG Gram 14z980链接LG Gram 15Z980-G.AA52C链接MSI 微星MSI GL62M-7REX链接MSI GL72M-7RDX链接链接MSI GP62 6QG-1071XCN链接链接微星 GP62MSI GS65 Stealth Thin 8RF链接MSI GE70 2PC链接XiaoMi 小米XiaoMi Air链接链接XiaoMiAir_i7 7500uXiaoMi Air链接链接小米 AirXiaoMi Air链接链接小米 AirXiaoMi Air链接XiaoMi Air链接链接小米 Notebook AirXiaoMi Air链接链接XiaoMi NoteBook AirXiaoMi Air 1gen链接这哥们应该是忠实的米粉，有兴趣的多多关注XiaoMi Air Skylake链接链接XiaoMi Gaming链接额，小米游戏本XiaoMi Pro 系列链接链接小米 Pro 系列XiaoMi 游戏本 8 代链接小米游戏本，猜的Intel 英特尔Intel DH67GD, DH67BL,DH67CF, DH67CL 系列主板链接链接Intel DH67GD, DH67BL,DH67CF, DH67CL 系列主板Intel NUC 5、6、7、8 系列链接链接mini 主机NUC8i7BEH链接Surface Pro 4链接 链接链接surfacePro 4技嘉 GB-BXi5H-4200 系列主板链接链接技嘉 GB-BXi5H-4200 系列主板Other 其它Clevo P950HR链接蓝天 P950HR，猜的火影地狱火X6链接MECHREVO-X1链接机械革命 X1Shinalon_Yao_7000链接链接更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi笔记本相关资源hotpatchP-little链接见 ThinkPad 交流群宪武做的一套 ThinkPad 补丁，刚开始上传，请期待无线网卡推荐无线网卡MiniPCIe 接口(推荐 BCM4352HMB、DW1510)博通：BCM94322HM8L、Asus BCM94352、AzureWave AW-CE123H、AzureWave AW-NB290H、DW1510、DW1520、DW1550、高通：DW1515、DW1705、AR5BHB92、AR5BHB112 AR9285 芯片在 10.14 将不再被支持PCIe 接口博通：BCM94331CD、BCM94322MC、BCM94360CD高通：AR5BXB72、AR5BXB92、AR5BXB112M.2 接口(推荐 BCM94352ZAE、DW1560)博通：BCM94352Z(AE)、DW1560，DW1830高通：DW1707(AR9565)台式（部分）AMD Ryzen链接链接AMD FX 6300/NVIDIA GTX 650链接主板：Asus M5A97 LE R2.0AMD Ryzen 1700/Asus B350 Plus链接MSI GTX 1080 Gaming XASRock deskmini 110链接Asrock deskmini 310链接ASRock Z370M Pro4链接 链接链接ASRock Z370-Gaming链接链接ASRock Z390 Phantom Gaming itx链接 链接链接 链接华擎 Z390 Phantom Gaming itx/acAsus Z170-P链接华硕Z170-P+6700K+RX470Asus ROG STRIX H370-I GAMING链接mini-ITX H370 motherboardAsus STRIX Z270-E链接Asus STRIX Z270-EAsus ROG Strix Z390-EIntel i9-9900k+GTX 1080TiCM238 i7-8950H UHD630 ALC269链接S200H_I7-8750H 小主机Dell OptiPlex 3050链接Dell OptiPlex 9020M链接Gigabyte X370N链接 链接Gigabyte Z370NDQ77KB链接Gigabyte Z270X-UG链接链接Gigabyte Z390 Aorus链接Lenovo M73 Tiny链接Huanan X79 E5-2670, GTX650链接链接华南 x79 V2HP Z600 Workstation链接MSI B360链接MSI Z370-A链接链接黑果小兵MSI Z370-A自用EFI更多机型链接引用自：国光之前维护的仓库链接底噪出品：one-key-hidpi硬件兼容列表链接感谢: CrazyPegAsus 其它机型请提交到这里.fancybox{display:inline-block}]]></content>
       <categories>
         <category>教程</category>
       </categories>
@@ -55,8 +55,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.3</tag>
@@ -128,8 +128,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.2</tag>
@@ -162,8 +162,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14.1</tag>
@@ -194,8 +194,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -242,8 +242,8 @@
         <category>镜像</category>
       </categories>
       <tags>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>Mojave</tag>
         <tag>dmg</tag>
         <tag>10.14</tag>
@@ -290,8 +290,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G2112</tag>
@@ -307,8 +307,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.6</tag>
         <tag>17G65</tag>
@@ -324,8 +324,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.5</tag>
         <tag>17F77</tag>
@@ -378,8 +378,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>教程</tag>
         <tag>AppleALC</tag>
+        <tag>教程</tag>
         <tag>AppleHDA</tag>
         <tag>HDMI</tag>
         <tag>Audio</tag>
@@ -395,8 +395,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.4</tag>
         <tag>1.7e+200</tag>
@@ -426,8 +426,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -485,8 +485,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.2</tag>
         <tag>17C88</tag>
@@ -600,8 +600,8 @@
       </categories>
       <tags>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>10.13.1</tag>
         <tag>17B48</tag>
@@ -719,8 +719,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A405</tag>
       </tags>
@@ -771,8 +771,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
       </tags>
   </entry>
@@ -799,8 +799,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>GM</tag>
         <tag>17A362a</tag>
@@ -921,8 +921,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>DB9</tag>
         <tag>17A360a</tag>
         <tag>dmg</tag>
@@ -936,9 +936,9 @@
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
+        <tag>下载</tag>
         <tag>10.12.6</tag>
         <tag>Download</tag>
-        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -980,8 +980,8 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>DB8</tag>
         <tag>17A358a</tag>
       </tags>
@@ -1009,9 +1009,9 @@
       </categories>
       <tags>
         <tag>10.13</tag>
-        <tag>下载</tag>
         <tag>DB7</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
       </tags>
   </entry>
   <entry>
@@ -1080,8 +1080,8 @@
       </categories>
       <tags>
         <tag>Sierra</tag>
-        <tag>10.12.6</tag>
         <tag>镜像</tag>
+        <tag>10.12.6</tag>
         <tag>dmg</tag>
         <tag>安装</tag>
       </tags>
@@ -1110,8 +1110,8 @@
       <tags>
         <tag>10.13</tag>
         <tag>High Sierra</tag>
-        <tag>下载</tag>
         <tag>镜像</tag>
+        <tag>下载</tag>
         <tag>dmg</tag>
         <tag>17A344b</tag>
       </tags>
