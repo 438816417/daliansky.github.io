@@ -4,21 +4,35 @@
   <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     
-    <lastmod>2019-04-05T14:57:39.790Z</lastmod>
+    <lastmod>2019-04-27T13:37:10.244Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
+    
+    <lastmod>2019-04-27T13:37:10.243Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
+    
+    <lastmod>2019-04-27T13:37:10.243Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html</loc>
     
-    <lastmod>2019-04-05T06:19:59.200Z</lastmod>
+    <lastmod>2019-04-27T13:37:10.242Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
     
-    <lastmod>2019-04-05T05:36:59.304Z</lastmod>
+    <lastmod>2019-04-27T13:36:33.370Z</lastmod>
     
   </url>
   
@@ -44,23 +58,9 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html</loc>
-    
-    <lastmod>2019-03-29T23:01:14.931Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html</loc>
     
     <lastmod>2019-03-29T23:01:14.931Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html</loc>
-    
-    <lastmod>2019-03-29T23:01:14.930Z</lastmod>
     
   </url>
   
@@ -492,14 +492,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/about/index.html</loc>
+    <loc>https://blog.daliansky.net/categories/index.html</loc>
     
     <lastmod>2019-03-22T12:45:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/categories/index.html</loc>
+    <loc>https://blog.daliansky.net/about/index.html</loc>
     
     <lastmod>2019-03-22T12:45:42.000Z</lastmod>
     
